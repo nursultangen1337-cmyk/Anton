@@ -37,3 +37,9 @@ git push -u origin main
 - `app.js` — логіка чату і підказок
 
 Без Node.js, без API, без сторонніх сервісів. Тільки HTML, CSS, JS.
+
+## iOS Shortcut — аналіз тестів
+
+Є також iOS Shortcut для швидкого аналізу тестових завдань: сфоткав → отримав відповідь у нотифікації.
+
+Інструкція: [ios-shortcut-guide.md](ios-shortcut-guide.md)
